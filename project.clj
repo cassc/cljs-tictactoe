@@ -41,6 +41,5 @@
                                    :output-dir "resources/public/cljs/out"
                                    :source-map-timestamp true}}}}
 
-  :figwheel { :css-dirs ["resources/public/css"]
-             :open-file-command "emacsclient"
-             })
+  :figwheel {:css-dirs ["resources/public/css"]
+             :open-file-command "emacsclient"})
