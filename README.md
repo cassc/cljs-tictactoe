@@ -1,4 +1,4 @@
-# wikipedia search
+# About
 
 A tictactoe written in ClojureScript.
 
